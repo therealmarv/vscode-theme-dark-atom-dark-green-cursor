@@ -16,9 +16,9 @@
 		<string>#75715E</string>
 	</dict>
 	<key>name</key>
-	<string>Atom Dark Grey Text Green Cursor</string>
+	<string>Dark Atom Dark Green Cursor</string>
 	<key>semanticClass</key>
-	<string>theme.dark.atom_dark</string>
+	<string>theme.dark.atom_dark_green_cursor</string>
 	<key>settings</key>
 	<array>
 		<dict>

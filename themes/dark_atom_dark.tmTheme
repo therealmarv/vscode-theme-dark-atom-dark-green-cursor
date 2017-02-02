@@ -16,9 +16,9 @@
 		<string>#75715E</string>
 	</dict>
 	<key>name</key>
-	<string>Atom Dark</string>
+	<string>Dark Atom Dark</string>
 	<key>semanticClass</key>
-	<string>theme.dark.nucleus</string>
+	<string>theme.dark.atom_dark</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -29,7 +29,7 @@
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#F8F8F2</string>
+				<string>#c5c8c6</string>
 				<key>invisibles</key>
 				<string>#49483E</string>
 				<key>lineHighlight</key>
@@ -462,7 +462,8 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>author</key>
-	<string>Jason Truluck</string>
+	<string>Marvin Reimer</string>
+	<key>comment</key>
+	<string>original by Jason Truluck</string>
 </dict>
 </plist>
-
