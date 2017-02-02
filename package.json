@@ -1,8 +1,8 @@
 {
     "name": "vscode-theme-dark-atom-dark-green-cursor",
-    "displayName": "Dark Atom Dark Green Cursor",
+    "displayName": "Dark Atom Dark Green Cursor Theme",
     "description": "Beautiful Atom Dark with green Cursor eyecandy",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "publisher": "therealmarv",
     "engines": {
         "vscode": "^1.5.0"
