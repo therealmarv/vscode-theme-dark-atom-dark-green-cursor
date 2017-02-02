@@ -1,0 +1,27 @@
+{
+    "name": "vscode-theme-dark-atom-dark-green-cursor",
+    "displayName": "Dark Atom Dark Green Cursor",
+    "description": "Translation of dark Atom Dark theme to VSCode. Including eyecandy: A GREEN cursor.",
+    "version": "0.9.0",
+    "publisher": "therealmarv",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Atom Dark Green Cursor",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark_atom_dark_green_cursor.tmTheme"
+            },
+            {
+                "label": "Dark Atom Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark_atom_dark.tmTheme"
+            }
+        ]
+    }
+}
