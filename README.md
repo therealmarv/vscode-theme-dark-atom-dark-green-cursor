@@ -1,3 +1,5 @@
+[![Marketplace](http://vsmarketplacebadge.apphb.com/version/therealmarv.vscode-theme-dark-atom-dark-green-cursor.svg)](https://marketplace.visualstudio.com/items?itemName=therealmarv.vscode-theme-dark-atom-dark-green-cursor)
+
 # Dark Atom Dark Green Cursor Theme
 
 Most of this theme is based on original Atom editor look and feel.  
